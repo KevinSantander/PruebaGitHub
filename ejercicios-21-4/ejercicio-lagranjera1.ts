@@ -14,7 +14,7 @@ console.log("Avanzar hacia adelante");
 
 console.log("Quitar monoticulo");
 
-console.log("Gira hacia la izquierda ");
+console.log("Girar hacia la izquierda ");
 
 console.log("Avanzar hacia adelante");
 
